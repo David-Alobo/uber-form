@@ -6,6 +6,9 @@ This project is a simple form for booking a cab with Uber, created using HTML an
 
 - Clean, modern and responsive design
 - Utilizes CSS for styling, including font choices and color palette
+- Optimized for mobile devices
+- User-friendly interface for entering pickup and drop-off locations
+- Utilizes CSS for styling, including font choices and color palette
 
 <center><img width="512" alt="uber-form" src="https://user-images.githubusercontent.com/88712885/215929471-55231544-93e0-4307-833b-181fabb2b185.png">
 </center>
