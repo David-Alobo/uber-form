@@ -1,4 +1,4 @@
-# Uber Cab Booking Form
+# Uber Booking Form
 
 This project is a simple form for booking a cab with Uber, created using HTML and CSS. The aim of this project was to demonstrate proficiency in front-end web development by creating a functional and visually appealing form.
 
