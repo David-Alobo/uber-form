@@ -14,9 +14,8 @@ This project is a simple form for booking a cab with Uber, created using HTML an
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-- Clone the repository to your local machine using the following command:
-bash
-Copy code
+- Clone the repository to your local machine using the following command: <br />
+
 git clone https://github.com/david-alobo/uber-form.git
 
 - Open the index.html file in your preferred browser.
